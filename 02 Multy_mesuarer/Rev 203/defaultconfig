@@ -1,0 +1,13 @@
+configCalcStatusRA:0.0
+configEngineStartBlockWarningValueRA:5000.0
+configTimeSleepAfterMeasuringRA:15.0
+configSoftResetRA:0.0
+configREngineRA:0.0
+configRTamuRA:0.0
+configOneOrTwoEngineRA:1.0
+configNeedMeasuringNowRA:0.0
+configRMaxRA:999999.0
+configEngineStartBlockValueRA:1000.0
+configTimeSleepAfterWorkRA:10.0
+configDeviceAddressRA:32.0
+configFirmwareRA:2.0
